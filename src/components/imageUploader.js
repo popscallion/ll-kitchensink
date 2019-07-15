@@ -9,7 +9,7 @@ const StyledDiv = styled.div`
   outline: 1px solid white;
   outline-offset: -8px;
   >p{
-    font-family: ${props => props.theme.fontFamily};
+    font-family: ${props => props.theme.fontFamilySans};
     font-size: 12px;
     letter-spacing: 0.2em;
     text-transform:uppercase;
@@ -38,16 +38,5 @@ function DropZone() {
     </StyledDiv>
   )
 }
-// const TestComponent = styled.button`
-//   background: transparent;
-//   border-radius: 3px;
-//   border: 2px solid palevioletred;
-//   color: palevioletred;
-//   margin: 0 1em;
-//   padding: 0.25em 1em;
-//   &:hover {
-//     background: #555;
-//   }
-//   `
 
 export default DropZone
