@@ -4,11 +4,11 @@
   "private": true,
   "dependencies": {
     "@babel/polyfill": "^7.4.4",
-    "electron-rebuild": "^1.8.5",
+    "electron-rebuild": "^3.2.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-dropzone": "^10.1.5",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "styled-components": "^4.3.2",
     "tsutils": "^3.14.0",
     "typescript": "^3.5.3"
