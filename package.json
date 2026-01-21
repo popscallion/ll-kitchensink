@@ -8,7 +8,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-dropzone": "^10.1.5",
-    "react-scripts": "3.0.1",
+    "react-scripts": "3.4.4",
     "styled-components": "^4.3.2",
     "tsutils": "^3.14.0",
     "typescript": "^3.5.3"
